@@ -14,7 +14,7 @@ public void Brake()
     	System.out.println("Brake Working Well");
 }}
 
-public class Main 
+public class Abstraction 
 {
     public static void main(String[] args)
     {
